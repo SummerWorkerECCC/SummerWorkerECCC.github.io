@@ -1,4 +1,4 @@
-# SummerWorkerECCC.github.io
+# e3c-summer-worker.github.io
 
 These contain mainly compiled code for me to import into the squarespace website via [jsdelivr](https://www.jsdelivr.com/).
 
