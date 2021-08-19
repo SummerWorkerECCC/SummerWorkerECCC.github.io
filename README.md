@@ -1,7 +1,9 @@
 # e3c-summer-worker.github.io - DEPRECATED
 
 **WARNING**: This repository is deprecated.
-I am mainly using Bithub Actions in the [`components`](https://github.com/e3c-summer-worker/components/) repo to compile the code and host it there. I will keep this repo here for backward compatibility (some imports on the Squarespace website may still use this repo and its linke), and maybe for a github pages site later on.
+I am mainly using Github Actions in the [`components`](https://github.com/e3c-summer-worker/components/) repo to compile the code and host it there. I will keep this repo here for backward compatibility (some imports on the Squarespace website may still use this repo and its linke), and maybe for a github pages site later on.
+
+---
 
 These contain mainly compiled code for me to import into the squarespace website via [jsdelivr](https://www.jsdelivr.com/).
 
